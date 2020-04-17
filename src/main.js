@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import '../public/fonts/daysOne.css'
+import '@/assets/styles/global.scss'
 
 Vue.config.productionTip = false
 
