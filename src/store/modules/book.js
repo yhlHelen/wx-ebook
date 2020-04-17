@@ -1,6 +1,6 @@
 const book = {
   state: {
-    test: 1
+    test: '北京'
   },
   mutations: {
     SET_TEST: (state, newTest) => {
